@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1710235054 source:d:\1_alles_um_fh\semester2\obprg\fightclub\main.cpp
+	<iostream>
+	"manager.h"
+	"armoredTank.h"
+
+1710235766 source:d:\1_alles_um_fh\semester2\obprg\fightclub\src\intimidatingkiller.cpp
+	"intimidatingKiller.h"
+	"fighter.h"
+	<iostream>
+	<string>
+
+1710235054 d:\1_alles_um_fh\semester2\obprg\fightclub\include\intimidatingkiller.h
+	"fighter.h"
+
+1710242062 source:d:\1_alles_um_fh\semester2\obprg\fightclub\src\fighter.cpp
+	"fighter.h"
+	<string.h>
+	<iostream>
+	<iomanip>
+	"time.h"
+
+1710239570 d:\1_alles_um_fh\semester2\obprg\fightclub\include\fighter.h
+	<string>
+
+1710683357 source:d:\1_alles_um_fh\semester2\obprg\fightclub\src\manager.cpp
+	"manager.h"
+	"fighter.h"
+	"armoredTank.h"
+	"intimidatingKiller.h"
+	"killerTank.h"
+	"strongRegenerator.h"
+	<iostream>
+	<string>
+	"time.h"
+
+1710238274 d:\1_alles_um_fh\semester2\obprg\fightclub\include\manager.h
+	"fighter.h"
+
+1710236790 source:d:\1_alles_um_fh\semester2\obprg\fightclub\src\armoredtank.cpp
+	"armoredTank.h"
+	"fighter.h"
+	<iostream>
+	<string>
+
+1710235054 d:\1_alles_um_fh\semester2\obprg\fightclub\include\armoredtank.h
+	"fighter.h"
+
+1710238654 source:c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\main.cpp
+	<iostream>
+	"manager.h"
+	"armoredTank.h"
+
+1710241874 c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\include\manager.h
+	"fighter.h"
+
+1710243171 c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\include\fighter.h
+	<string>
+
+1710238654 c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\include\armoredtank.h
+	"fighter.h"
+
+1710240391 source:c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\src\armoredtank.cpp
+	"armoredTank.h"
+	"fighter.h"
+	<iostream>
+	<string>
+
+1710239366 source:c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\src\intimidatingkiller.cpp
+	"intimidatingKiller.h"
+	"fighter.h"
+	<iostream>
+	<string>
+
+1710238654 c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\include\intimidatingkiller.h
+	"fighter.h"
+
+1710245662 source:c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\src\fighter.cpp
+	"fighter.h"
+	<string.h>
+	<iostream>
+	<iomanip>
+	"time.h"
+
+1710247567 source:c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\src\manager.cpp
+	"manager.h"
+	"fighter.h"
+	"armoredTank.h"
+	"intimidatingKiller.h"
+	"killerTank.h"
+	"strongRegenerator.h"
+	<iostream>
+	<string>
+	"time.h"
+
+1710247374 source:c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\src\killertank.cpp
+	"killerTank.h"
+	"fighter.h"
+	<iostream>
+	<string>
+
+1710247316 c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\include\killertank.h
+	"fighter.h"
+
+1710247372 source:c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\src\strongregenerator.cpp
+	"strongRegenerator.h"
+	"fighter.h"
+	<iostream>
+	<string>
+
+1710247320 c:\users\johan\documents\allaboutfh\semester2\obprog\fightclub\include\strongregenerator.h
+	"fighter.h"
+
+1710243716 d:\1_alles_um_fh\semester2\obprg\fightclub\include\killertank.h
+	"fighter.h"
+
+1710243720 d:\1_alles_um_fh\semester2\obprg\fightclub\include\strongregenerator.h
+	"fighter.h"
+
